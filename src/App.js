@@ -15,7 +15,7 @@ useEffect(() => {
 
   return (
     <main id='app'>
-      <BrowserRouter>
+      <BrowserRouter basename='/REACT-NOTES-APP'>
       <Routes>
         <Route path='/' element={<Notes notes={notes} />} />
         <Route path='/create-note' element={<CreateNote setNotes={setNotes}/>} />
