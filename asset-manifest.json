@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/linmilan/REACT-NOTES-APP/static/css/main.5e7ff2f6.css",
+    "main.js": "/linmilan/REACT-NOTES-APP/static/js/main.ea9ec5a6.js",
+    "static/js/787.9243050f.chunk.js": "/linmilan/REACT-NOTES-APP/static/js/787.9243050f.chunk.js",
+    "static/media/logo.svg": "/linmilan/REACT-NOTES-APP/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/linmilan/REACT-NOTES-APP/index.html",
+    "main.5e7ff2f6.css.map": "/linmilan/REACT-NOTES-APP/static/css/main.5e7ff2f6.css.map",
+    "main.ea9ec5a6.js.map": "/linmilan/REACT-NOTES-APP/static/js/main.ea9ec5a6.js.map",
+    "787.9243050f.chunk.js.map": "/linmilan/REACT-NOTES-APP/static/js/787.9243050f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e7ff2f6.css",
+    "static/js/main.ea9ec5a6.js"
+  ]
+}
