@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/REACT-NOTES-APP/static/css/main.5e7ff2f6.css",
-    "main.js": "/REACT-NOTES-APP/static/js/main.08539737.js",
+    "main.js": "/REACT-NOTES-APP/static/js/main.3105075a.js",
     "static/js/787.9243050f.chunk.js": "/REACT-NOTES-APP/static/js/787.9243050f.chunk.js",
     "static/media/logo.svg": "/REACT-NOTES-APP/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/REACT-NOTES-APP/index.html",
     "main.5e7ff2f6.css.map": "/REACT-NOTES-APP/static/css/main.5e7ff2f6.css.map",
-    "main.08539737.js.map": "/REACT-NOTES-APP/static/js/main.08539737.js.map",
+    "main.3105075a.js.map": "/REACT-NOTES-APP/static/js/main.3105075a.js.map",
     "787.9243050f.chunk.js.map": "/REACT-NOTES-APP/static/js/787.9243050f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5e7ff2f6.css",
-    "static/js/main.08539737.js"
+    "static/js/main.3105075a.js"
   ]
 }
